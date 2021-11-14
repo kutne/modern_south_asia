@@ -17,7 +17,7 @@ title: Modern South Asia
 tagline: tagline 
 description: From Mughals to Partition
 author: Kelsey Utne
-baseurl: '/modern-south-asia' # the subpath of your site, e.g. /blog
+baseurl: '/modern_south_asia' # the subpath of your site, e.g. /blog
 url: 'https://kutne.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
