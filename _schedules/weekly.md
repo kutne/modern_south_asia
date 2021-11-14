@@ -27,16 +27,16 @@ schedule:
         end: 10:00 AM
         location: TBD
   - name: Wednesday
-    - name: Office Hours
-    start: 12:30 PM
-    end: 2:00 PM
-    location: Mcgraw B2
+    events:
+      - name: Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: Mcgraw B2
   - name: Thursday
     events:
       - name: Lecture
         start: 9:00 AM
         end: 10:00 AM
         location: TBD
-  - name: Friday
-    
+  - name: Friday  
 ---
