@@ -37,7 +37,6 @@ schedule:
         start: 9:00 AM
         end: 9:00 AM
         location: TBD
-
   - name: Friday
     
 ---
