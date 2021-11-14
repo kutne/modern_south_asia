@@ -15,8 +15,6 @@ description: Grading Structure and Assignments.
 
 ---
 
-## Participation & Grading
-
 | Grade Structure  |   |
 |---|---|
 | Participation  | 40%  |
@@ -24,6 +22,7 @@ description: Grading Structure and Assignments.
 | Final Exam  | 25%  |
 | Total  |  100% |
 
+## Participation
 ### What is "Participation" anyway?
 This is your single most important “civic responsibility” within the course. In this class, we are a community of individuals collectively pursuing intellectual growth. As such, each member of this scholarly community has a responsibility to themselves and the other members to complete all relevant assignments and to come to class meetings prepared to discuss the reading respectfully and honestly. As an introductory level class, assigned readings will usually be between 50-70 pages a week. We have to cover a lot of ground in this course! We can only manage that successfully if every student completes all assigned work before the start of the class for which it is assigned. The participation grade includes attendance, completing all assigned preparation (including annotations and reading), in-class activities, cluster discussions, quizzes, and written homework. 
 
