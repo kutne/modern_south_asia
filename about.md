@@ -47,8 +47,6 @@ While I will only assign readings from these texts sparingly, they will be essen
 
 ## Participation & Grading
 
-Participation: This is your single most important “civic responsibility” within the course. As a seminar, we are a community of individuals collectively pursuing intellectual growth. As such, each member of this scholarly community has a responsibility to themselves and the other members to complete all relevant assignments and to come to classes prepared to discuss the material respectfully and honestly. The participation grade includes attendance, in-class activities, exit tickets, and homework. 
-
 | Grade Structure  |   |
 |---|---|
 | Participation  | 30%  |
@@ -56,3 +54,5 @@ Participation: This is your single most important “civic responsibility” wit
 | Annotated Bibliography  | 20%  |
 | Final Project  |  30% |
 | Total  |  100% |
+
+Participation: This is your single most important “civic responsibility” within the course. As a seminar, we are a community of individuals collectively pursuing intellectual growth. As such, each member of this scholarly community has a responsibility to themselves and the other members to complete all relevant assignments and to come to classes prepared to discuss the material respectfully and honestly. The participation grade includes attendance, in-class activities, exit tickets, and homework. 
