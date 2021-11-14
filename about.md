@@ -20,14 +20,39 @@ description: >-
 
 This course gives a broad overview of the history of the South Asian subcontinent from the start of the Mughal empire to its partitioning into India and Pakistan. Prominent themes in the course include shifting forms of governance, the emergence of religious and regional identities, social reform and the “woman question,” deindustrialization, and nationalism. Students will also learn about the practice of history more broadly, including how to read primary and secondary texts, how to weigh evidence, and how to formulate coherent historical arguments.
 
-## Lecture
+## Objectives  
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+At the end of this course, you will be able to:
 
-## Resources
+1.	_Demonstrate_ a basic chronological understanding of modern South Asian history from 1526-1947
+2.	_Identify_ and _explain_ the key moments, actors, and groups in modern South Asian history that impacted the region’s social, cultural, and political trajectory. In other words, you will be able to write and speak clearly about major events in the past and explain why they are important;
+3.	_Recognize_ history as an incomplete process – that is continually made and remade by humans for complex reasons – as a means to interpret the past.
+4.	_Evaluate_ and _contextualize_ primary and secondary source materials in relation to their historical moment, the themes of course, and historiographical significance.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Readings
 
-## Assignments
+We will primarily be reading from the following books: 
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+- Metcalf & Metcalf. _A Concise History of Modern India_. 
+- McDermott et al. _Sources of Indian Traditions: Modern India, Pakistan, and Bangladesh_. 
+- Khilnani. _Incarnations: A History of India in Fifty Lives_. 
+
+Finally, you will receive three extremely brief reference items. They are overviews of the history of the three major religions that figure prominently in the modern history of this region: Hinduism, Islam, and Sikhism. 
+
+- Knott. _Hinduism: A Very Short Introduction_.
+- Nesbitt. _Sikhism: A Very Short Introduction_.
+- Silverstein. _Islamic History: A Very Short Introduction_.
+
+While I will only assign readings from these texts sparingly, they will be essential resources you should reference throughout the term.
+
+## Participation & Grading
+
+Participation: This is your single most important “civic responsibility” within the course. As a seminar, we are a community of individuals collectively pursuing intellectual growth. As such, each member of this scholarly community has a responsibility to themselves and the other members to complete all relevant assignments and to come to classes prepared to discuss the material respectfully and honestly. The participation grade includes attendance, in-class activities, exit tickets, and homework. 
+
+| Grade Structure  |   |
+|---|---|
+| Participation  | 30%  |
+|  Quizzes | 20%  |
+| Annotated Bibliography  | 20%  |
+| Final Project  |  30% |
+| Total  |  100% |
