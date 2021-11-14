@@ -46,6 +46,13 @@ In week 3 you will choose 3 items from a list of items on display at a local mus
 
 Note: in the event of another Covid-19 shut down, I will provide alternative instructions regarding the museum visit.
 
-
 ## Final Exam
 You will receive a take-home, cumulative final exam two weeks before the due date on the syllabus.  The exam will be open book, but you must complete all work independently. Please note: There is no midterm exam in this course.
+
+
+## A Note on "Clusters"…
+In the first or second week of class, I will use a randomizer to assign small groups of 3-4 students. These will be your “clusters” for the semester. The clusters serve a few purposes. In order to ensure that class discussions are as productive as possible in the limited time we have together, I will often ask you to first work through a couple of questions in this small group. Then, you can zoom in on what are the most important questions or ideas you need answers to. 
+
+Why do this with assigned clusters? Why not just count off in each class or ask you to work with whoever is sitting near you? There are a few reasons. First, it saves time. Instead of using precious class time to either make or assign groups, I can just ask you to work with your cluster. If we’re meeting person, you don’t need to figure out who is who. If we’re meeting virtually, then it saves time for setting up Zoom breakout rooms or setting up Google docs.
+
+The second reason, and arguably the more important reason, is that you will develop a rapport with your cluster over the course of the semester. It’s easier to ask questions or work through a set of prompts when you already know each other. For this same reason, it eliminates the disadvantage of not having a friend in the class. When you take a class with someone you already know, then you probably would email or text that person for notes when you missed class with a bad cold or when you have a super quick question about an assignment. This is precisely what your cluster is for. Sometimes I will ask you to meet with your cluster outside of class for a homework assignment, but I also encourage you to get together (virtually or in-person) on your own as well to study and prepare for class. As always, if you have any questions or concerns about this, let me know!
