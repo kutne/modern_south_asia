@@ -18,7 +18,10 @@ seo:
 {% endif %}
 
 ## COURSE DESCRIPTION
-This course gives a broad overview of the history of the South Asian subcontinent from the start of the Mughal empire to its partitioning into India and Pakistan. Prominent themes in the course include shifting forms of governance, the emergence of religious and regional identities, social reform and the “woman question,” deindustrialization, and nationalism. Students will also learn about the practice of history more broadly, including how to read primary and secondary texts, how to weigh evidence, and how to formulate coherent historical arguments.
+If history is truly written by the victors, how do they establish their version of events? And what options do the so-called ‘losers’ have to elbow their experiences into the history books? This course introduces students to the history of the countries we know today as India, Pakistan, and Bangladesh. We explore this history through the lens of history making at the intersection of violence, heritage, and politics. We will study the memorialization of massacres and assassinations as mechanisms of state power and subversive tools of resistance in the region. From the Black Hole of Calcutta (1756) and the Mutiny of 1857, the Jallianwala Bagh Massacre (1919) to the murder Mahatma Gandhi (1948), we consider how individuals and states transform traumas into collective cultural inheritance by erecting memorials, advertising tourism circuits, curating museum exhibits, and celebrating tragic anniversaries.
+
+Organized chronologically, the course equips students with a basic knowledge of the region’s history from the establishment of the Mughal Empire in 1526 to the end of British colonial rule in 1947. Through weekly primary source analysis lessons, students will learn how to do the work of history. Even when discussing histories that seem remote from our current moment, we will repeatedly return to the question “what is at stake?” when we tell a particular history. Students will consider what constitutes a “usable” past and interrogate the how historical actors have leveraged the past. This course assumes no prior study of South Asia.
+
 
 <!-- Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
