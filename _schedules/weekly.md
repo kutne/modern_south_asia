@@ -24,7 +24,7 @@ schedule:
     events:
       - name: Lecture
         start: 9:00 AM
-        end: 9:00 AM
+        end: 10:00 AM
         location: TBD
   - name: Wednesday
     - name: Office Hours
@@ -35,7 +35,7 @@ schedule:
     events:
       - name: Lecture
         start: 9:00 AM
-        end: 9:00 AM
+        end: 10:00 AM
         location: TBD
   - name: Friday
     
