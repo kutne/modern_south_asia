@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Modern South Asia
-tagline: History of Modern South Asia - Heritage, History, Usable Pasts
+tagline: History of Modern South Asia - Heritage, History, and Usable Pasts
 description: 
 author: Kelsey Utne
 baseurl: '/modern_south_asia' # the subpath of your site, e.g. /blog
