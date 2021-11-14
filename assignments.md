@@ -36,4 +36,5 @@ Reading is also not a passive activity. In addition to improving your comprehens
 
 ## Primary Source Analyses
 
-## Final Exam (30%)
+
+## Final Exam
