@@ -37,15 +37,15 @@ Reading is also not a passive activity. In addition to improving your comprehens
 
 Beginning in week 2, we will work together examining and interpreting a primary source as a class. Over the course of the term, you will practice these skills on your own by submitting 3 primary source analyses, each of which is worth 10% of your grade. Each analysis should be 3-4 pages long. More directions will follow on a separate handout. _You may choose to rewrite one of the three primary source analyses for a higher grade_. This optional rewrite is due on the last day of class and must include a revision memo explaining what changes you made and why.
 
-**Analyses #1 and #2 (10% each)**
+### Analyses #1 and #2 (10% each)
 
 I will assign and distribute the sources for the first two sources. Everyone will have the same sources and access to the same information. Primary sources will be assigned 1 week before the rough draft deadline. The purpose of this assignment is to analyze the source without knowing who wrote it, when it was written, or why. No outside research is permitted. This assignment requires that you think like a historian by constructing an argument with contextual clues within the document.
 
-**Museum Visits for Analysis #3 (15%)**
+### Museum Visits for Analysis #3 (15%)
 
 In week 3 you will choose 3 items from a list of items on display at a local museums. Over the course of the semester you should go in person to view each of these items and complete a very brief write-up of your trips. You will have 8 weeks during which you should arrange to visit the appropriate museums. The absolute latest you may submit your write up is Week 11. Your final primary source analysis,  you shall choose one of these items to examine. 
 
-Note: in the event of another Covid-19 shut down, I will provide alternative instructions regarding the museum visit.
+_Note_: in the event of another Covid-19 shut down, I will provide alternative instructions regarding the museum visit.
 
 ## Final Exam
 You will receive a take-home, cumulative final exam two weeks before the due date on the syllabus.  The exam will be open book, but you must complete all work independently. Please note: There is no midterm exam in this course.
