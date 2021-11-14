@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: History of Modern South Asia
 nav_exclude: true
 seo:
   type: Course
@@ -17,13 +17,14 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## COURSE DESCRIPTION
+This course gives a broad overview of the history of the South Asian subcontinent from the start of the Mughal empire to its partitioning into India and Pakistan. Prominent themes in the course include shifting forms of governance, the emergence of religious and regional identities, social reform and the “woman question,” deindustrialization, and nationalism. Students will also learn about the practice of history more broadly, including how to read primary and secondary texts, how to weigh evidence, and how to formulate coherent historical arguments.
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+<!-- Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- and a weekly [schedule](schedule.md). -->
 
 Just the Class is a set of customizations on top of the popular [Just the Docs](https://github.com/pmarsceill/just-the-docs) theme, which provides a robust and thoroughly-tested foundation that makes it easy to extend for your own special use cases. These foundational features include:
 
