@@ -13,4 +13,3 @@ title: Week 2
 - [MET](https://www.metmuseum.org/)  
 -	[British Museum](https://www.britishmuseum.org/)  
 -	[National Museum of Asian Art](https://asia.si.edu/)  
-  : [1.1](#)
