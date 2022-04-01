@@ -8,4 +8,4 @@ title: Week 2
 : Baburnama excerpt
 
 **Prepare**{: .label .label-purple } 
-: [Agra](.collections_prompts.md)  
+: [Agra](./collections_prompts.md)  
