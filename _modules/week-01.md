@@ -10,5 +10,5 @@ title: Week 1
 : [Indus Valley Civilization](https://www.youtube.com/watch?v=n7ndRwqJYDM) (<13 minutes) 
 
 **Optional**{: .label .label-green }   
-: Explore interactive maps of UNESCO World Heritage Sites in [India](http://whc.unesco.org/en/statesparties/IN), [Pakistan](http://whc.unesco.org/en/statesparties/pk), and [Bangladesh](http://whc.unesco.org/en/statesparties/bd) and related documents
+: Explore interactive maps of UNESCO World Heritage Sites in [India](http://whc.unesco.org/en/statesparties/IN), [Pakistan](http://whc.unesco.org/en/statesparties/pk), and [Bangladesh](http://whc.unesco.org/en/statesparties/bd) and related documents  
   : [extra credit](#)
