@@ -1,23 +1,10 @@
 ---
-title: Basic Data Structures
+title: Who Were the Mughals?
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Tuesday  
+: **Read**{: .label .label-purple } Jason Farago, “[What a Tiny Masterpiece Reveals About Power and Beauty](https://www.nytimes.com/interactive/2021/04/02/arts/design/shah-jahan-chitarman.html)”, New York Times, April 2, 2021.  
+: Catherine Denial, [How to Build Relationships with Teachers: Advice from College Professors](https://www.teenvogue.com/story/how-to-build-relationships-with-college-professors), Teen Vogue, October 11, 2018
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Thursday
+: **Watch**{: .label .label-teal } [Indus Valley Civilization](https://www.youtube.com/watch?v=n7ndRwqJYDM) (<13 minutes)(#)
