@@ -1,13 +1,12 @@
 ---
-title: Who Were the Mughals?
+title: Week 2
 ---
 
-Explore 
-: Interactive maps of UNESCO World Heritage Sites in [India](http://whc.unesco.org/en/statesparties/IN), [Pakistan](http://whc.unesco.org/en/statesparties/pk), and [Bangladesh](http://whc.unesco.org/en/statesparties/bd) and related documents
+
 
 Read
 : Truschke, pages 1-28 
-: [Baburnama excerpt](#)
+: Baburnama excerpt
 
 Prepare
 : Select any 2 items from one of the following collections related to the city of Agra.  
