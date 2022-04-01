@@ -7,8 +7,7 @@ Explore
 
 Read
 : Truschke, pages 1-28 
-: Baburnama excerpt PrimarySource{: .label .label-purple }
-: Baburnama excerpt **PrimarySource**{: .label .label-purple }
+: [Baburnama excerpt](#)
 
 Prepare
 : Select any 2 items from one of the following collections related to the city of Agra.  
