@@ -3,7 +3,6 @@ title: Week 2
 ---
 
 
-
 **Read**{: .label .label-purple }  
 : Truschke, pages 1-28 
 : Baburnama excerpt

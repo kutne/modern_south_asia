@@ -11,4 +11,3 @@ title: Week 1
 
 **Optional**{: .label .label-green }   
 : Explore interactive maps of UNESCO World Heritage Sites in [India](http://whc.unesco.org/en/statesparties/IN), [Pakistan](http://whc.unesco.org/en/statesparties/pk), and [Bangladesh](http://whc.unesco.org/en/statesparties/bd) and related documents  
-  : [extra credit](#)
